@@ -1,0 +1,5 @@
+D:\cours_programmation_evenementielle_et_IHM\projetCS_écrit2023\projetCS_écrit2023\bin\Debug\projetCS_écrit2023.exe
+D:\cours_programmation_evenementielle_et_IHM\projetCS_écrit2023\projetCS_écrit2023\bin\Debug\projetCS_écrit2023.pdb
+D:\cours_programmation_evenementielle_et_IHM\projetCS_écrit2023\projetCS_écrit2023\obj\x86\Debug\projetCS_écrit2023.exe
+D:\cours_programmation_evenementielle_et_IHM\projetCS_écrit2023\projetCS_écrit2023\obj\x86\Debug\projetCS_écrit2023.pdb
+D:\cours_programmation_evenementielle_et_IHM\projetCS_écrit2023\projetCS_écrit2023\obj\x86\Debug\projetCS_écrit2023.csprojResolveAssemblyReference.cache
